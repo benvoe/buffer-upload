@@ -1,0 +1,8 @@
+---
+IG_USER: $username
+BUFFER_MAIL: $email
+BUFFER_PASS: $password
+HASHTAG_SEPARATOR: $separator
+HASHTAG_LIMIT: $limit
+HASHTAG_INCLUDE: $include
+DRIVER: $driver

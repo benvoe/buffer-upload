@@ -1,0 +1,14 @@
+# Ignored Directories
+.vscode/
+__pycache__/
+venv/
+temp/
+posts/
+config/
+
+# Ignored Files
+.DS_Store
+.un~
+geckodriver.log
+utils/selenium/geckodriver
+utils/selenium/chromedriver
