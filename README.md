@@ -98,7 +98,7 @@ then specify the driver you want to use in your `config.yaml`.
 
 NOTE: By using another webdriver you may encounter issues. (e.g. chromedriver does not support emojis in the caption)
 
-### I have errors with webdrivers on MacOS. Shat should I do?
+### I have errors with webdrivers on MacOS. What should I do?
 
 On MacOS you may have to execute 
 
